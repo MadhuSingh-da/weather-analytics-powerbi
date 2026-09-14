@@ -4,29 +4,26 @@
 
 An interactive Weather Analytics Dashboard built using Microsoft Power BI.
 
-The data is collected from a Weather API and used to analyze current weather conditions, forecasts, air quality, and other weather-related indicators.
+The data is collected directly from a Weather API and is used to analyze current weather conditions, forecasts, air quality, and other key weather indicators.
 
-## Dashboard
+## Dashboard Preview
 
 ![Weather Analytics Dashboard](images/weather-dashboard.png)
 
 ## Key Features
 
-- Current temperature and weather condition
+- Current temperature and weather conditions
 - Weather forecast
 - Air Quality Index (AQI)
-- PM10, PM2.5, SO2, NO2, CO and O3 levels
-- Humidity
-- Wind speed
+- PM10, PM2.5, SO2, NO2, CO and O3 analysis
+- Humidity and wind speed
 - Atmospheric pressure
-- Visibility
-- UV Index
-- Precipitation
-- Chance of rain
+- Visibility and UV Index
+- Precipitation and chance of rain
 - Sunrise and sunset timings
-- Weather comparison across locations
+- Weather analysis across different locations
 
-## Tools Used
+## Tools & Technologies
 
 - Power BI
 - Weather API
@@ -34,11 +31,12 @@ The data is collected from a Weather API and used to analyze current weather con
 - DAX
 - Data Visualization
 
-## Project Files
+## Project File
 
 - `Weather_Analytics_Dashboard.pbix` – Power BI dashboard
-- `images/weather-dashboard.png` – Dashboard preview
 
 ## Author
 
-Madhu Singh
+**Madhu Singh**
+
+Data Analyst | Power BI | SQL | Python | Excel
